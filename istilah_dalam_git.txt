@@ -1,0 +1,6 @@
+-Repository
+-Branch
+-Commit
+-Clone
+-Push
+-Pull
