@@ -1,6 +1,5 @@
--Repository
--Branch
+-Repository = Follder Utama
+-Branch = Jalur2 di dalam Repository
 -Commit
--Clone
 -Push
 -Pull
